@@ -5,5 +5,6 @@
   "category": "Automation",
   "image": "https://raw.githubusercontent.com/two-workspaces/waha/main/icon.png",
   "card_desc": "WAHA: a self-hosted WhatsApp HTTP API. Send and receive messages from n8n, Chatwoot or your own code over REST and webhooks, on the lightweight GOWS engine with sessions kept on a volume.",
-  "id": "11aa8cb2-8caa-4cd7-916e-ae56f797de8b"
+  "id": "11aa8cb2-8caa-4cd7-916e-ae56f797de8b",
+  "published": true
 }
