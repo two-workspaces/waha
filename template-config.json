@@ -11,7 +11,7 @@
         "restartPolicyMaxRetries": 10
       },
       "source": {
-        "image": "devlikeapro/waha:gows-2026.9.2"
+        "image": "devlikeapro/waha:gows-2026.10.1"
       },
       "networking": {
         "serviceDomains": {
